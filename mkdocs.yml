@@ -1,6 +1,7 @@
 site_name: My MkDocs Website
 site_description: A simple MkDocs website
 site_author: Your Name
+site_url: https://davidmyriel.github.io/mkdocs/
 
 nav:
   - Home: index.md
